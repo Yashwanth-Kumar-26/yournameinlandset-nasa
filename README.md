@@ -2,6 +2,10 @@
 
 A Telegram bot that generates stylized name images using letter assets with 3 random variants per letter.
 
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
 ## Project Structure
 
 ```
